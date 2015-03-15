@@ -1,5 +1,7 @@
 # notatki tu beda
 
+rozne beda
+
 testowe repo
 blah blah blah
 

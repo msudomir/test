@@ -17,3 +17,5 @@ printf("Hello world"\n)
 
 Link do prowadzącego
 https://github.com/h5c3j/pspi
+
+http://tao.inf.ug.edu.pl/

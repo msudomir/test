@@ -1,6 +1,6 @@
 # notatki tu beda
 
-rozne beda
+rozne beda dodawane
 
 testowe repo
 blah blah blah

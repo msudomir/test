@@ -1,0 +1,11 @@
+cos cos
+
+przyklad
+
+=== Przykladowe
+
+[source,c]
+
+#include<stdio.h>
+main(){
+printf("Hello world")}

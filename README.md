@@ -29,5 +29,6 @@ https://github.com/h5c3j/pspi/blob/master/AsciiDoc/hello_world.adoc
 http://www.mimuw.edu.pl/~mbodnar/modele/mat/sciaga_z_matlaba
 http://prac.im.pwr.wroc.pl/~kajetano/Pakiety/MATLAB_INTRO.html
 http://galaxy.eti.pg.gda.pl/katedry/ksg/dydaktyka/Techniki_obliczeniowe_w_systemach_geoprzestrzennych/Materialy/Pomoc_do_MATLABA.pdf
+https://www.coursera.org/
 
 :laughing:

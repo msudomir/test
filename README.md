@@ -32,5 +32,6 @@ http://galaxy.eti.pg.gda.pl/katedry/ksg/dydaktyka/Techniki_obliczeniowe_w_system
 https://www.coursera.org/
 https://lagunita.stanford.edu/
 http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+http://www.html5rocks.com/en/#table-of-contents
 
 :laughing:

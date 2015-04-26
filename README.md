@@ -27,6 +27,8 @@ http://wbzyl.inf.ug.edu.pl/sp
 
 https://github.com/h5c3j/pspi/blob/master/AsciiDoc/hello_world.adoc
 
+
+
 http://www.mimuw.edu.pl/~mbodnar/modele/mat/sciaga_z_matlaba
 http://prac.im.pwr.wroc.pl/~kajetano/Pakiety/MATLAB_INTRO.html
 http://galaxy.eti.pg.gda.pl/katedry/ksg/dydaktyka/Techniki_obliczeniowe_w_systemach_geoprzestrzennych/Materialy/Pomoc_do_MATLABA.pdf
@@ -38,5 +40,7 @@ http://www.html5rocks.com/en/#table-of-contents
 ## https://simon.html5.org/html-elements
 
 http://materializecss.com/
+
+http://www.w3schools.com/html/html_links.asp
 
 :laughing:

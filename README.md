@@ -13,8 +13,9 @@ Tu też coś
 main(){
 printf("Hello world"\n)
 }
+'''/C
 
-
+#
 Link do prowadzącego
 https://github.com/h5c3j/pspi
 

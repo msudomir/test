@@ -34,4 +34,6 @@ https://lagunita.stanford.edu/
 http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 http://www.html5rocks.com/en/#table-of-contents
 
+## https://simon.html5.org/html-elements
+
 :laughing:

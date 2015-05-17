@@ -8,14 +8,15 @@ blah blah blah
 ## 13 marca 2015
 
 Tu też coś
-```C
+```c
 #include <stdio.h>
 main(){
 printf("Hello world"\n)
 }
-'''/C
+```
 
-#
+## inne
+
 Link do prowadzącego
 https://github.com/h5c3j/pspi
 
@@ -48,6 +49,7 @@ http://wbzyl.divshot.io/html5/2015/05/01/picture-element
 http://lokeshdhakar.com/projects/lightbox/
 http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/
 http://www.thingstud.io/
+https://html5boilerplate.com/
 
 fajne urządzenia:
 Galileo (intel)

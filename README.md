@@ -48,4 +48,9 @@ http://wbzyl.divshot.io/html5/2015/05/01/picture-element
 http://lokeshdhakar.com/projects/lightbox/
 http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-picture-srcset/
 http://www.thingstud.io/
+
+fajne urządzenia:
+Galileo (intel)
+Raspberry PI
+Arduino
 :laughing:

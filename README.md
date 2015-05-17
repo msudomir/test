@@ -45,5 +45,5 @@ http://www.w3schools.com/html/html_links.asp
 https://divshot.com/
 http://caniuse.com/
 http://wbzyl.divshot.io/html5/2015/05/01/picture-element
-
+http://lokeshdhakar.com/projects/lightbox/
 :laughing:

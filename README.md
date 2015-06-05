@@ -54,7 +54,11 @@ https://html5boilerplate.com/
 
 http://slides.com/milenasudomir/deck#/
 
+http://el.us.edu.pl/ekonofizyka/index.php/Programowanie_%C5%9Arod_Matlab
+
 ##fajne urządzenia:
 Galileo (intel)
 Raspberry PI
 Arduino
+
+

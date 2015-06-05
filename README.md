@@ -1,11 +1,7 @@
-# notatki tu beda
+# Linki i notatki.
 
-rozne beda dodawane
 
-testowe repo
-blah blah blah
-
-## 13 marca 2015
+## Podstawowy skrypt w C
 
 Tu też coś
 ```c
@@ -15,9 +11,9 @@ printf("Hello world"\n)
 }
 ```
 
-## inne
+# Linki
 
-Link do prowadzącego
+## Link do prowadzącego
 https://github.com/h5c3j/pspi
 
 http://tao.inf.ug.edu.pl/
@@ -25,23 +21,28 @@ http://tao.inf.ug.edu.pl/
 http://wbzyl.inf.ug.edu.pl/sp/git
 http://wbzyl.inf.ug.edu.pl/sp
 
+##ASCIIDOC
 
 https://github.com/h5c3j/pspi/blob/master/AsciiDoc/hello_world.adoc
+http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
 
-
+##MATLAB
 
 http://www.mimuw.edu.pl/~mbodnar/modele/mat/sciaga_z_matlaba
 http://prac.im.pwr.wroc.pl/~kajetano/Pakiety/MATLAB_INTRO.html
 http://galaxy.eti.pg.gda.pl/katedry/ksg/dydaktyka/Techniki_obliczeniowe_w_systemach_geoprzestrzennych/Materialy/Pomoc_do_MATLABA.pdf
+
+##KURSY
 https://www.coursera.org/
 https://lagunita.stanford.edu/
-http://asciidoctor.org/docs/asciidoc-syntax-quick-reference/
+
+##MISCELEANOUS
+
 http://www.html5rocks.com/en/#table-of-contents
 
-# https://simon.html5.org/html-elements
+https://simon.html5.org/html-elements
 
 http://materializecss.com/
-
 http://www.w3schools.com/html/html_links.asp
 https://divshot.com/
 http://caniuse.com/
@@ -51,8 +52,7 @@ http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-pi
 http://www.thingstud.io/
 https://html5boilerplate.com/
 
-fajne urządzenia:
+##fajne urządzenia:
 Galileo (intel)
 Raspberry PI
 Arduino
-:laughing:

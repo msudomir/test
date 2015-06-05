@@ -52,6 +52,8 @@ http://www.smashingmagazine.com/2014/05/14/responsive-images-done-right-guide-pi
 http://www.thingstud.io/
 https://html5boilerplate.com/
 
+http://slides.com/milenasudomir/deck#/
+
 ##fajne urządzenia:
 Galileo (intel)
 Raspberry PI
